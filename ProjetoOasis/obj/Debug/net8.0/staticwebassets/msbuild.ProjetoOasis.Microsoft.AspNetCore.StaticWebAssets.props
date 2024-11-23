@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MLModels\ModeloImpactoAmbiental.zip'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProjetoOasis</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProjetoOasis</BasePath>
+      <RelativePath>MLModels/ModeloImpactoAmbiental.zip</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>w5w5ozhdkc</Fingerprint>
+      <Integrity>7PnS6ph4rVWFCjwb+pJ5Ov8HNUVX5HmtbCdzMTMId9Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MLModels\ModeloImpactoAmbiental.zip'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

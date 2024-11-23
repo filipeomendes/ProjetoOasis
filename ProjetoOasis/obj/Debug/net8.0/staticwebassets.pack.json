@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\wwwroot\\MLModels\\ModeloImpactoAmbiental.zip",
+      "PackagePath": "staticwebassets\\MLModels\\ModeloImpactoAmbiental.zip"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjetoOasis.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjetoOasis.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjetoOasis.props",
+      "PackagePath": "build\\ProjetoOasis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjetoOasis.props",
+      "PackagePath": "buildMultiTargeting\\ProjetoOasis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjetoOasis.props",
+      "PackagePath": "buildTransitive\\ProjetoOasis.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "HuGxoyjgRYUIM5tUf+eWKV/BduOfzUbYGoEt7D5YACQ=",
+  "Source": "ProjetoOasis",
+  "BasePath": "_content/ProjetoOasis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoOasis\\wwwroot",
+      "Source": "ProjetoOasis",
+      "ContentRoot": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\wwwroot\\",
+      "BasePath": "_content/ProjetoOasis",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\wwwroot\\MLModels\\ModeloImpactoAmbiental.zip",
+      "SourceId": "ProjetoOasis",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\wwwroot\\",
+      "BasePath": "_content/ProjetoOasis",
+      "RelativePath": "MLModels/ModeloImpactoAmbiental#[.{fingerprint}]?.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w5w5ozhdkc",
+      "Integrity": "7PnS6ph4rVWFCjwb+pJ5Ov8HNUVX5HmtbCdzMTMId9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MLModels\\ModeloImpactoAmbiental.zip"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "MLModels/ModeloImpactoAmbiental.w5w5ozhdkc.zip",
+      "AssetFile": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\wwwroot\\MLModels\\ModeloImpactoAmbiental.zip",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-zip-compressed"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7PnS6ph4rVWFCjwb+pJ5Ov8HNUVX5HmtbCdzMTMId9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 23:23:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5w5ozhdkc"
+        },
+        {
+          "Name": "label",
+          "Value": "MLModels/ModeloImpactoAmbiental.zip"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7PnS6ph4rVWFCjwb+pJ5Ov8HNUVX5HmtbCdzMTMId9Y="
+        }
+      ]
+    },
+    {
+      "Route": "MLModels/ModeloImpactoAmbiental.zip",
+      "AssetFile": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\wwwroot\\MLModels\\ModeloImpactoAmbiental.zip",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-zip-compressed"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7PnS6ph4rVWFCjwb+pJ5Ov8HNUVX5HmtbCdzMTMId9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 23:23:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7PnS6ph4rVWFCjwb+pJ5Ov8HNUVX5HmtbCdzMTMId9Y="
+        }
+      ]
+    }
+  ]
+}

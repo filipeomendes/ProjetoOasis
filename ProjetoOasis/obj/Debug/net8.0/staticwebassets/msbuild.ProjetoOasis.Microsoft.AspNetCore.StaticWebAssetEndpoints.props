@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ProjetoOasis/MLModels/ModeloImpactoAmbiental.w5w5ozhdkc.zip">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MLModels\ModeloImpactoAmbiental.zip'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w5w5ozhdkc"},{"Name":"integrity","Value":"sha256-7PnS6ph4rVWFCjwb\u002BpJ5Ov8HNUVX5HmtbCdzMTMId9Y="},{"Name":"label","Value":"_content/ProjetoOasis/MLModels/ModeloImpactoAmbiental.zip"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83315"},{"Name":"Content-Type","Value":"application/x-zip-compressed"},{"Name":"ETag","Value":"\u00227PnS6ph4rVWFCjwb\u002BpJ5Ov8HNUVX5HmtbCdzMTMId9Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 23:23:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjetoOasis/MLModels/ModeloImpactoAmbiental.zip">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MLModels\ModeloImpactoAmbiental.zip'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7PnS6ph4rVWFCjwb\u002BpJ5Ov8HNUVX5HmtbCdzMTMId9Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"83315"},{"Name":"Content-Type","Value":"application/x-zip-compressed"},{"Name":"ETag","Value":"\u00227PnS6ph4rVWFCjwb\u002BpJ5Ov8HNUVX5HmtbCdzMTMId9Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 23:23:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
